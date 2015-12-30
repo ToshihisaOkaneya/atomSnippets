@@ -1,0 +1,2 @@
+# atomSnippets
+atomのsnippet
